@@ -1,0 +1,19 @@
+body {
+    direction: rtl;
+}
+
+h1 {
+  color: blue;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td {
+  text-align:center;
+  border: 1px solid #dddddd;
+  padding: 8px;
+}
+
